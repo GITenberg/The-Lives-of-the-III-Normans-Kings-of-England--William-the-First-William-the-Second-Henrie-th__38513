@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '39436'
     url: http://www.gutenberg.org/2009/agents/39436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38513#The-Lives-of-the-III-Normans-Kings-of-England--William-the-First-William-the-Second-Henrie-th_
 gutenberg_issued: '2012-01-07'
 gutenberg_type: Text
 identifiers:
