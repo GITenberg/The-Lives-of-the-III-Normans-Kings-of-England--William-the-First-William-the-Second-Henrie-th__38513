@@ -1,0 +1,32 @@
+_repo: The-Lives-of-the-III-Normans-Kings-of-England--William-the-First-William-the-Second-Henrie-th__38513
+_version: 0.1.0
+alternative_title: 'The Lives of the Three Normans, Kings of England: William the
+  First, William the Second, Henrie the First'
+covers:
+- cover_type: archival
+  image_path: 38513-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hayward, John, Sir
+    alias: Haywarde, Io. (Iohn), Sir
+    deathdate: 1627
+    gutenberg_agent_id: '39436'
+    url: http://www.gutenberg.org/2009/agents/39436
+description: ''
+gutenberg_issued: '2012-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History'
+- !lcsh 'William I, King of England, 1027 or 8-1087'
+- !lcsh 'William II, King of England, 1056?-1100'
+- !lcsh 'Henry I, King of England, 1068-1135'
+title: 'The Lives of the III. Normans, Kings of England: William the First, William
+  the Second, Henrie the First'
+url: http://www.gutenberg.org/ebooks/38513
